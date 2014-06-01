@@ -20,8 +20,11 @@ If you have the [Package Control][package_control] package installed, you can in
 ### To be done ###
 
 * Highlighting for lambdas
+* Smarter template highlighting
+* `dispatch`
 * Collection literals
-* Other minor features
+* Sublime Text 'Toggle Comment' action should work
+* Operators in Xtend
 
 [sublime]: http://www.sublimetext.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
